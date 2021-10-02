@@ -14,9 +14,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar1227.bstar1227" />
 <img align="right" src="https://img.shields.io/github/followers/bstar1227?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bstar1227&show_icons=true&theme=merko&count_private=true&111" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar1227&layout=compact&theme=merko&count_private=true" />
-<img height="150px" />
+
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
